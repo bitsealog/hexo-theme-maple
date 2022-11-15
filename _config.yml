@@ -1,18 +1,18 @@
 # Header
 nav:
   Posts: /archives
-  Categories: /category
-  Tags: /tag
+  Categories: /categories
+  Tags: /tags
 
 # favicon
-favicon: /favicon.png
+favicon: /images/logo.svg
 
 # logo
 logo: /images/logo.svg
 
 # links
 links:
-  Github: https://github.com/xbmlz
+  Github: https://github.com/eltonyuen/
   # ZhiHu:
   # Twitter:
   # Weibo:
@@ -22,13 +22,13 @@ google_analytics:
 baidu_analytics:
 
 # mathjax
-fancybox: true
+fancybox: false
 
 # mathjax
 mathjax: true
 
 # echarts
-echarts: true
+echarts: false
 
 # mermaid
 mermaid:
