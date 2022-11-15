@@ -13,32 +13,9 @@ logo: /images/logo.svg
 # links
 links:
   Github: https://github.com/eltonyuen/
-  # ZhiHu:
-  # Twitter:
-  # Weibo:
 
 # analytics
 google_analytics:
-baidu_analytics:
 
 # mathjax
 fancybox: false
-
-# mathjax
-mathjax: true
-
-# echarts
-echarts: false
-
-# mermaid
-mermaid:
-  enable: true
-  # Available themes: default | dark | forest | neutral
-  theme: default
-
-# disqusjs
-disqusjs:
-  enable: false
-  api:
-  apikey:
-  shortname:
