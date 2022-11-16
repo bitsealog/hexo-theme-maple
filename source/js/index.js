@@ -1,2 +1,2 @@
 // do something
-console.log("welcome");
+console.log("welcome v1.0");
