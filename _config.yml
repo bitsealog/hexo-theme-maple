@@ -12,10 +12,36 @@ logo: /images/logo.svg
 
 # links
 links:
-  Github: https://github.com/eltonyuen/
+  Github: https://github.com/bitsealog/
 
 # analytics
 google_analytics:
+
+# busuanzi
+busuanzi: true
+
+# mermaid
+mermaid:
+  enable: true
+  # Available themes: default | dark | forest | neutral
+  theme: default
+
+# giscus
+giscus:
+  enable:
+  repo:
+  repo_id:
+  category:
+  category_id:
+  mapping:
+
+# maple
+maple:
+  enable: false
+  # fall leaf count
+  count: 10
+  # 0-1
+  speed: 0.5
 
 # false
 fancybox: false
