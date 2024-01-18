@@ -24,3 +24,12 @@ maple:
   count: 10
   # 0-1
   speed: 0.5
+
+# giscus
+giscus:
+  enable: false
+  repo:
+  repo_id:
+  category:
+  category_id:
+  mapping:
