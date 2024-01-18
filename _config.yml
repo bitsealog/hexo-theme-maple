@@ -17,9 +17,6 @@ links:
 # analytics
 google_analytics:
 
-# busuanzi
-busuanzi: true
-
 # mermaid
 mermaid:
   enable: true
